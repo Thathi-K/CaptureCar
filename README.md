@@ -35,4 +35,8 @@ A simple Java Swing application for capturing and displaying vehicle information
 ---
 
 ## 🛠️ Project Structure
+├── Car.java # Data model representing a vehicle
+├── Launch.java # Main GUI application with all Swing components
+├── Main.java # Entry point that starts the GUI
 
+Created by Kamogelo Thathi
